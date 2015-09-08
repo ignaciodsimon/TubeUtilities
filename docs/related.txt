@@ -1,0 +1,12 @@
+ = Related information =
+
+- Tube Datasheet locator:
+  http://tdsl.duncanamps.com/tubesearch2.php?TSD=6n1p&btnSubmit=Query
+  It stores several over 4300 tubes with their pinout and some basic electric data.
+
+- Collection of links:
+  http://home.mira.net/~gnb/elec/valvedata.html
+
+- Repair store, datahseets and info:
+  http://www.drtube.com/library/tube-datasheets
+
